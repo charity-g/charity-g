@@ -1,11 +1,11 @@
 ✨ hey, i'm charity! 
 
 glad to see you here! I'm someone who's pretty passionate about digital literacy, lifelong learning and mentorship!
-
 i have a wide range of interests across many disciplines, from math to art, and from philosophy to life sci, and of course computer science! 
 
 for professional inquiries, connect with me over at LinkedIn: www.linkedin.com/in/charity-g-b3a24022a
-to view some of my technical projects, use this link: https://linktree.charitygrey.repl.co/
+<br>
+To view some of my technical projects, use this link: https://linktree.charitygrey.repl.co/
 
 sincerely,
 @charity-g
