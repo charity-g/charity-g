@@ -5,9 +5,11 @@ i have a wide range of interests across many disciplines, from math to art, and 
 
 for professional inquiries, connect with me over at LinkedIn: www.linkedin.com/in/charity-g-b3a24022a
 <br>
-To view some of my technical projects, use this link: https://linktree.charitygrey.repl.co/
+To view my technical projects, use this link: https://linktree.charitygrey.repl.co/
 
-sincerely,
+sincerely, 
+<br>
+Charity Grey (she/her)
 @charity-g
 
 <!---
