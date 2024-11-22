@@ -1,6 +1,6 @@
 ✨ hey, i'm charity! 
 
-glad to see you here! I'm someone who's pretty passionate about digital literacy, lifelong learning and mentorship!
+glad to see you here! I'm someone who's passionate about digital literacy, lifelong learning and mentorship!
 i have a wide range of interests across many disciplines, from math to art, and from philosophy to life sci, and of course computer science! 
 
 for professional inquiries, connect with me over at LinkedIn: www.linkedin.com/in/charity-g-b3a24022a
