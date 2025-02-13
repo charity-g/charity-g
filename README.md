@@ -1,16 +1,12 @@
 ✨ hey, i'm charity! 
 
-glad to see you here! I'm someone who's passionate about digital literacy, lifelong learning and mentorship!
-i have a wide range of interests across many disciplines, from math to art, and from philosophy to life sci, and of course computer science! 
+I have a passion of seeing through the entire data pipeline, from data extraction to transformation to ultimately ensure the data is reliable and consistent for the end-user, be it business decision-making analytics or secure and reliable user access. I've already had 2 years of experience in different internships and projects designing, building, and optimizing data pipelines, and am looking forward to tackling more challenges like these in the future!
 
 for professional inquiries, connect with me over at LinkedIn: www.linkedin.com/in/charity-g-b3a24022a
-<br>
-To view my technical projects, use this link: https://charity-g.github.io/my-app-website23/
-
 
 sincerely, 
 <br>
-Charity Grey (she/her)
+Charity
 @charity-g
 
 <!---
