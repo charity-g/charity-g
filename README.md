@@ -9,11 +9,11 @@ sincerely,
 Charity
 @charity-g
  
-### Data Engineering + Cloud
-[![My Skills](https://skillicons.dev/icons?i==python,kafka,docker,githubactions,aws,mongodb,mysql,netlify&perline=5)](https://skillicons.dev)
+### Databases + Data Engineering
+[![My Skills](https://skillicons.dev/icons?i=py,kafka,aws,mongodb,postgres,mysql&perline=6)](https://skillicons.dev)
 
-### Web Dev Technologies & Frameworks 
-[![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,vite,vitest,fastapi,nodejs,postman&perline=5)](https://skillicons.dev)
+### Software Engineering Technologies & Frameworks 
+[![My Skills](https://skillicons.dev/icons?i=typescript,cpp,java,deno,nodejs,docker,githubactions,react,nestjs,redux,nextjs,tailwind&perline=6)](https://skillicons.dev)
 
 
 
