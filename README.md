@@ -10,7 +10,7 @@ Charity
 @charity-g
  
 ### Data Engineering + Cloud
-[![My Skills](https://skillicons.dev/icons?i==py,kafka,docker,githubactions,aws,mongodb,mysql,netlify&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i==python,kafka,docker,githubactions,aws,mongodb,mysql,netlify&perline=5)](https://skillicons.dev)
 
 ### Web Dev Technologies & Frameworks 
 [![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,vite,vitest,fastapi,nodejs,postman&perline=5)](https://skillicons.dev)
