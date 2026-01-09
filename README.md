@@ -1,8 +1,15 @@
 ✨ hey, i'm charity! 
+Hey, I'm Charity!
 
-I have a passion of seeing through the entire data pipeline, from data extraction to transformation to ultimately ensure the data is reliable and consistent for the end-user, be it business decision-making analytics or secure and reliable user access. I've already had 2 years of experience in different internships and projects designing, building, and optimizing data pipelines, and am looking forward to tackling more challenges like these in the future!
+I'm here building to understand and solve interesting and difficult problems.
 
-for professional inquiries, connect with me over at LinkedIn: www.linkedin.com/in/charity-g
+If you look at my projects, I can guarantee that I can explain each line of code. Why?
+
+- Founding SWE @ Xpress Select → I got to take full ownership of the entire software. Iterated with AI but still managed to review and approve each line of deployed code, and I had to think about resilience, redundancy, availability and customer impact at a scale fit for B2B platforms. Regularily identified bugs in < 5 minutes because of codebase depth.
+- Software Engineer Intern @ Amgen -> 
+- Data Engineer Intern @ STEMCELL Technologies →
+
+
 
 sincerely, 
 <br>
