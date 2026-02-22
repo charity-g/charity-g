@@ -1,4 +1,4 @@
-✨ hey, i'm charity! 
+✨ 
 Hey, I'm Charity!
 
 I'm here building to understand and solve interesting and difficult problems.
