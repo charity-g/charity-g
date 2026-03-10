@@ -3,10 +3,11 @@ Hey, I'm Charity!
 
 I'm here building to understand and solve interesting and difficult problems.
 
-Why?
-- Founding SWE @ Xpress Select → I got to take full ownership of the entire software. Iterated with AI but still managed to review and approve each line of deployed code, and I had to think about resilience, redundancy, availability and customer impact at a scale fit for B2B platforms.
-- Data Engineer Intern @ STEMCELL Technologies → Work ethic + action >>> talk. Tackled brand new data warehouse systems with automatation. Pushed for ideas and project implementationsand ran 30,000 SQL queries.
-- Computational Co-lead @ UBC Biomolecular Design Team (BIOMOD) → Showing up is everything. Despite never having wetlab experience, showing up allowed me to be in places and opportunities to coordinate lab cleanups, find and track kits and reagents for experiments, and write, proofread and submit 50 pages of final competition paper write-ups about a protein-producing dna hydrogel. 
+Why? My past experiences have shaped who I am!
+
+- Founding SWE @ Xpress Select → getting to take full ownership of the entire software. While I did use AI, I still managed to review and approve each line of deployed code, and working through the tradeoffs of development speed, product alignment, and confidence in quality. 
+- Data Engineer Intern @ STEMCELL Technologies → I need freedom to explore. My awesome manager (shoutout to James Grayson!) gave me so much trust and freedom and it allowed me to become incredibly adept at very specific nuances of the challenges we were facing, and the ability to clear our work backlog to the point where I was bored, and then going off to look for more cool things to work on! (More than 30,000 SQL queries in 8 months!) 
+- Computational Co-lead @ UBC Biomolecular Design Team (BIOMOD) → How to show up! Honestly, showing up is everything. Despite not properly having wetlab experience, showing up allowed me to be in places and opportunities to coordinate lab cleanups, find and track kits and reagents for experiments, and write, proofread and submit 50 pages of final competition paper write-ups about a protein-producing dna hydrogel. None of that was "software eng" per se, but it allowed 
 
 looking forward to showing up.
 
@@ -20,8 +21,6 @@ Charity
 
 ### Software Engineering Technologies & Frameworks 
 [![My Skills](https://skillicons.dev/icons?i=typescript,cpp,java,deno,nodejs,docker,githubactions,react,nestjs,redux,nextjs,tailwind&perline=6)](https://skillicons.dev)
-
-
 
 <!---
 charity-g/charity-g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
