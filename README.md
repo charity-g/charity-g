@@ -20,7 +20,7 @@ Charity
 [![My Skills](https://skillicons.dev/icons?i=py,kafka,aws,mongodb,postgres,mysql&perline=6)](https://skillicons.dev)
 
 ### Software Engineering Technologies & Frameworks 
-[![My Skills](https://skillicons.dev/icons?i=typescript,cpp,java,deno,nodejs,docker,githubactions,react,nestjs,redux,nextjs,tailwind&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,c,cpp,java,deno,nodejs,docker,podman,githubactions,react,nestjs,redux,nextjs,tailwind&perline=8)](https://skillicons.dev)
 
 <!---
 charity-g/charity-g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
